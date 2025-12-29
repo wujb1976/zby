@@ -1,16 +1,1 @@
-安徽移动,https://gh-proxy.com/https://github.com/xisohi/CHINA-IPTV/blob/main/Unicast/anhui/mobile.txt
-安徽移动IPTV,https://www.wmviv.com/iptv/ahmoiptv.txt
-tang直播1,https://gh.catmak.name/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u
-tang直播5,https://gh-proxy.com/https://github.com/alantang1977/IPTV/blob/main/live_ipv4.m3u
-tang直播6,https://gh-proxy.com/https://github.com/alantang1977/IPTV/blob/main/live_ipv4.txt
-
-Dong-learn9-1,https://gh-proxy.com/https://raw.githubusercontent.com/Dong-learn9/AutoTV/master/output/result.txt
-Dong-learn9-2,https://gh-proxy.com/https://raw.githubusercontent.com/Dong-learn9/AutoTV/master/output/result.m3u
-
-meiyu1989-5,https://ghfast.top/https://github.com/meiyu1989/IPTV/blob/main/webview.m3u
-
-
-大佬魔改,http://rihou.cc:555/gggg.nzk
-猫TV直播,http://rihou.cc:567/gggg.nzk
-
 
