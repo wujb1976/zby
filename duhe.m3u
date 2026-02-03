@@ -1211,7 +1211,7 @@ CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
 五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-10.m3u8
 五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-15.m3u8
 
-CCTV,#genre#
+央视频道,#genre#
 CCTV-1,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV-1,http://112.6.202.38:880/chs001.m3u8
 CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
@@ -1431,7 +1431,7 @@ CETV-4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227331/index.m3u
 CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CETV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
-卫视,#genre#
+卫视频道,#genre#
 广东卫视,http://183.215.134.239:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0#http://tvbox6.icu/tv/migu.php?id=gdws
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
