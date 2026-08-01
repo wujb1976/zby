@@ -35,7 +35,7 @@
 {"sourceName":"💛haonanren118🍭","sourceUrl":"https://gh-proxy.com/https://github.com/haonanren118/tvbox-kstore/blob/main/download/1/tvbox/source.json "},
 {"sourceName":"💛EasyXC-dc🍭","sourceUrl":"https://gh-proxy.com/https://github.com/EasyXC/EasyTVbox/blob/main/easydc.jpg "},
 
-
+{"sourceName":"🍑yangh909","sourceUrl":"https://gh-proxy.com/https://github.com/yangh909/tvbox/blob/main/dist/db.json"},
 {"sourceName":"💜wjb🍭26.06.30测试🍭","sourceUrl":"更新时间"}
 ]}
 
