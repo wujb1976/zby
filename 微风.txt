@@ -1,4 +1,166 @@
 🇨🇳央视,#genre#
+
+CCTV1,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv1&zy.m3u8
+CCTV2,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv2&zy.m3u8
+CCTV3,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv3&zy.m3u8
+CCTV4,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv4&zy.m3u8
+CCTV5,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv5&zy.m3u8
+CCTV5+,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv5p&zy.m3u8
+CCTV6,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv6
+CCTV7,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv7&zy.m3u8
+CCTV8,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv8&zy.m3u8
+CCTV9,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv9&zy.m3u8
+CCTV10,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv10&zy.m3u8
+CCTV11,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv11&zy.m3u8
+CCTV12,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv12&zy.m3u8
+CCTV13,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv13&zy.m3u8
+CCTV14,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv14
+CCTV15,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv15&zy.m3u8
+CCTV16,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv16&zy.m3u8
+CCTV17,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv17&zy.m3u8
+CCTV1,http://117.21.182.161:2380/c3.cdn.hunancatv.com/live/CCTV1HD.m3u8
+CCTV2,http://117.21.182.161:2380/c3.cdn.hunancatv.com/live/CCTV2HD.m3u8
+CCTV3,http://117.21.182.161:2380/c3.cdn.hunancatv.com/live/CCTV3HD.m3u8
+CCTV4,http://117.21.182.161:2380/c3.cdn.hunancatv.com/live/CCTV4HD.m3u8
+CCTV5,http://117.21.182.161:2380/c3.cdn.hunancatv.com/live/CCTV5HD.m3u8
+CCTV6,http://117.21.182.161:2380/c3.cdn.hunancatv.com/live/CCTV6HD.m3u8
+CCTV8,http://117.21.182.161:2380/c3.cdn.hunancatv.com/live/CCTV8HD.m3u8
+CCTV13,http://117.21.182.161:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-xw_4000.m3u8
+CCTV15,http://117.21.182.161:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-15-yyH265_4000.m3u8
+CCTV1,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8 $黑龙江移动
+CCTV2,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8 $黑龙江移动
+CCTV3,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8 $黑龙江移动
+CCTV4,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8 $黑龙江移动
+CCTV5,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8 $黑龙江移动
+CCTV5+,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8 $黑龙江移动
+CCTV6,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8 $黑龙江移动
+CCTV7,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8 $黑龙江移动
+CCTV8,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8 $黑龙江移动
+CCTV9,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8 $黑龙江移动
+CCTV10,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8 $黑龙江移动
+CCTV11,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8 $黑龙江移动
+CCTV12,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8 $黑龙江移动
+CCTV13,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8 $黑龙江移动
+CCTV14,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8 $黑龙江移动
+CCTV15,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8 $黑龙江移动
+CCTV16,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8 $黑龙江移动
+CCTV17,http://1.94.31.214/php/py/k-web/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8 $黑龙江移动
+CCTV1,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-1-HD-265-8M/G_CCTV-1-HD-265-8M.m3u8
+CCTV1,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_XUANDONG/G_XUANDONG.m3u8
+CCTV1,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8
+CCTV2,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8
+CCTV2,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-2-HD-265-8M/G_CCTV-2-HD-265-8M.m3u8
+CCTV3,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-3-HD-265-8M/G_CCTV-3-HD-265-8M.m3u8
+CCTV3,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/CCTV-3/CCTV-3.m3u8
+CCTV3,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-3-MD/G_CCTV-3-MD.m3u8
+CCTV4,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8
+CCTV4,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-4-HD-265-8M/G_CCTV-4-HD-265-8M.m3u8
+CCTV5,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5-HD-265-8M/G_CCTV-5-HD-265-8M.m3u8
+CCTV5,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5-CQ/G_CCTV-5-CQ.m3u8
+CCTV5,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/CCTV-5/CCTV-5.m3u8
+CCTV5,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5-MD/G_CCTV-5-MD.m3u8
+CCTV5+,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ.m3u8
+CCTV5+,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD.m3u8
+CCTV5+,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-5PLUS-HD-265-8M/G_CCTV-5PLUS-HD-265-8M.m3u8
+CCTV6,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-6-MD/G_CCTV-6-MD.m3u8
+CCTV6,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-6-HD-265-8M/G_CCTV-6-HD-265-8M.m3u8
+CCTV7,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/CCTV-7/CCTV-7.m3u8
+CCTV8,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-8-MD/G_CCTV-8-MD.m3u8
+CCTV8,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-8-HD-265-8M/G_CCTV-8-HD-265-8M.m3u8
+CCTV9,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-9/G_CCTV-9.m3u8
+CCTV10,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/CCTV-10/CCTV-10.m3u8
+CCTV11,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8
+CCTV11,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/CCTV-11/CCTV-11.m3u8
+CCTV13,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
+CCTV13,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/CCTV-13/CCTV-13.m3u8
+CCTV14,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-14-CQ/G_CCTV-14-CQ.m3u8
+CCTV15,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-15-HQ/G_CCTV-15-HQ.m3u8
+CCTV15,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-15/G_CCTV-15.m3u8
+CCTV16,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8
+CCTV16-4K,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8
+CCTV17,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-17/G_CCTV-17.m3u8
+CCTV17,http://120.232.58.225:80/snctcc-tvod.tx-cdn.gitv.tv/gitv_live/G_CCTV-17-CQ/G_CCTV-17-CQ.m3u8
+CCTV1,http://yftv-wshls.yzbtv.cn/live/4387.flv
+CCTV2,http://yftv-wshls.yzbtv.cn/live/11ecc.flv
+CCTV3,http://yftv-wshls.yzbtv.cn/live/11ef4.flv
+CCTV4,http://yftv-wshls.yzbtv.cn/live/11ef0.flv
+CCTV5,http://yftv-wshls.yzbtv.cn/live/11eec.flv
+CCTV6,http://yftv-wshls.yzbtv.cn/live/11ee8.flv
+CCTV8,http://yftv-wshls.yzbtv.cn/live/11ee0.flv
+CCTV10,http://yftv-wshls.yzbtv.cn/live/11ee0.flv
+CCTV13,http://yftv-wshls.yzbtv.cn/live/4e2f.flv
+CCTV1,http://go.bkpcp.top/mg/cctv1 
+CCTV2,http://go.bkpcp.top/mg/cctv2 
+CCTV3,http://go.bkpcp.top/mg/cctv3 
+CCTV4,http://go.bkpcp.top/mg/cctv4 
+CCTV5,http://go.bkpcp.top/mg/cctv5
+CCTV5+,http://go.bkpcp.top/mg/cctv5p 
+CCTV6,http://go.bkpcp.top/mg/cctv6
+CCTV7,http://go.bkpcp.top/mg/cctv7 
+CCTV8,http://go.bkpcp.top/mg/cctv8
+CCTV9,http://go.bkpcp.top/mg/cctv9
+CCTV10,http://go.bkpcp.top/mg/cctv10 
+CCTV11,http://go.bkpcp.top/mg/cctv11
+CCTV12,http://go.bkpcp.top/mg/cctv12 
+CCTV13,http://go.bkpcp.top/mg/cctv13 
+CCTV14,http://go.bkpcp.top/mg/cctv14
+CCTV15,http://go.bkpcp.top/mg/cctv15
+CCTV16,http://go.bkpcp.top/mg/cctv16
+CCTV17,http://go.bkpcp.top/mg/cctv17
+CCTV1,http://dx.joygala.cn:8118/rtp/239.49.8.19:9614$RTP2
+CCTV2,http://dx.joygala.cn:8118/rtp/239.49.8.50:9802$RTP2
+CCTV3,http://dx.joygala.cn:8118/rtp/239.49.8.74:8000$RTP2
+CCTV4,http://dx.joygala.cn:8118/rtp/239.49.8.51:9806$RTP2
+CCTV5,http://dx.joygala.cn:8118/rtp/239.49.8.75:8000$RTP2
+CCTV5+,http://dx.joygala.cn:8118/rtp/239.49.8.18:9610$RTP2
+CCTV6,http://dx.joygala.cn:8118/rtp/239.49.8.76:8000$RTP2
+CCTV7,http://dx.joygala.cn:8118/rtp/239.49.8.126:8000$RTP2
+CCTV8,http://dx.joygala.cn:8118/rtp/239.49.8.77:8000$RTP2
+CCTV9,http://dx.joygala.cn:8118/rtp/239.49.8.53:9814$RTP2
+CCTV10,http://dx.joygala.cn:8118/rtp/239.49.8.54:9818$RTP2
+CCTV11,http://dx.joygala.cn:8118/rtp/239.49.0.11:8080$RTP2
+CCTV12,http://dx.joygala.cn:8118/rtp/239.49.8.55:9822$RTP2
+CCTV13,http://dx.joygala.cn:8118/rtp/239.49.0.13:8096$RTP2
+CCTV14,http://dx.joygala.cn:8118/rtp/239.49.8.56:9826$RTP2
+CCTV15,http://dx.joygala.cn:8118/rtp/239.49.0.15:8112$RTP2
+CCTV16,http://dx.joygala.cn:8118/rtp/239.49.8.31:8000$RTP2
+CCTV17,http://dx.joygala.cn:8118/rtp/239.49.8.52:9810$RTP2
+CCTV1,http://foreveryyl.top:8001/rtp/239.49.8.19:9614$RTP3
+CCTV2,http://foreveryyl.top:8001/rtp/239.49.8.50:9802$RTP3
+CCTV3,http://foreveryyl.top:8001/rtp/239.49.8.74:8000$RTP3
+CCTV4,http://foreveryyl.top:8001/rtp/239.49.8.51:9806$RTP3
+CCTV5,http://foreveryyl.top:8001/rtp/239.49.8.75:8000$RTP3
+CCTV5+,http://foreveryyl.top:8001/rtp/239.49.8.18:9610$RTP3
+CCTV6,http://foreveryyl.top:8001/rtp/239.49.8.76:8000$RTP3
+CCTV7,http://foreveryyl.top:8001/rtp/239.49.8.126:8000$RTP3
+CCTV8,http://foreveryyl.top:8001/rtp/239.49.8.77:8000$RTP3
+CCTV9,http://foreveryyl.top:8001/rtp/239.49.8.53:9814$RTP3
+CCTV10,http://foreveryyl.top:8001/rtp/239.49.8.54:9818$RTP3
+CCTV11,http://foreveryyl.top:8001/rtp/239.49.0.11:8080$RTP3
+CCTV12,http://foreveryyl.top:8001/rtp/239.49.8.55:9822$RTP3
+CCTV13,http://foreveryyl.top:8001/rtp/239.49.0.13:8096$RTP3
+CCTV14,http://foreveryyl.top:8001/rtp/239.49.8.56:9826$RTP3
+CCTV15,http://foreveryyl.top:8001/rtp/239.49.0.15:8112$RTP3
+CCTV16,http://foreveryyl.top:8001/rtp/239.49.8.31:8000$RTP3
+CCTV17,http://foreveryyl.top:8001/rtp/239.49.8.52:9810$RTP3
+CCTV1,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
+CCTV2,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
+CCTV3,http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
+CCTV4,http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
+CCTV5,http://bztv.tvbus.cc:8081/cdnlive/cctv5.m3u8
+CCTV5+,http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
+CCTV6,http://bztv.tvbus.cc:8081/cdnlive/cctv6.m3u8
+CCTV7,http://bztv.tvbus.cc:8081/cdnlive/cctv7.m3u8
+CCTV8,http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
+CCTV9,http://bztv.tvbus.cc:8081/cdnlive/cctv9.m3u8
+CCTV10,http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
+CCTV11,http://bztv.tvbus.cc:8081/cdnlive/cctv11.m3u8
+CCTV12,http://bztv.tvbus.cc:8081/cdnlive/cctv12.m3u8
+CCTV13,http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
+CCTV14,http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8
+CCTV15,http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8
+CCTV16,http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8
+CCTV17,http://bztv.tvbus.cc:8081/cdnlive/cctv17.m3u8
 CCTV1,http://8.135.27.147:1234/608807420$仅供娱乐
 CCTV1,http://42.94.210.221:7788/608807420$切勿商用
 CCTV1,http://116.236.204.18:1234/608807420$追责自负
@@ -480,6 +642,31 @@ CHC影迷电影,http://223.247.25.247:1234/952383261
 中国天气,http://14.153.176.108:1234/959986621
 
 📡卫视,#genre#
+北京卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=bjws&zy.m3u8
+东方卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=dfws&zy.m3u8
+浙江卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=zjws&zy.m3u8
+江苏卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=jsws&zy.m3u8
+湖南卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=hunws&zy.m3u8
+广东卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=gdws&zy.m3u8
+深圳卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=szws&zy.m3u8
+天津卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=tjws&zy.m3u8
+安徽卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=ahws&zy.m3u8
+山东卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=sdws&zy.m3u8
+河北卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=hbws&zy.m3u8
+河南卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=hnws&zy.m3u8
+江西卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=jxws&zy.m3u8
+四川卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=scws&zy.m3u8
+重庆卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cqws&zy.m3u8
+东南卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=dnws&zy.m3u8
+海南卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=hinws&zy.m3u8
+青海卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=qhws&zy.m3u8
+陕西卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=sxws&zy.m3u8
+新疆卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=xjws&zy.m3u8
+西藏卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=xzws&zy.m3u8
+兵团卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=btws&zy.m3u8
+吉林卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=jlws&zy.m3u8
+内蒙古卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=nmgws&zy.m3u8
+黑龙江卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=hljws&zy.m3u8
 凤凰资讯,http://plzysm.cn:5140/%E5%8D%AB%E8%A7%86/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一凤凰资讯
