@@ -1,0 +1,28 @@
+{
+  "sites": [
+    {
+      "key": "demo",
+      "name": "奇乐影视",
+      "type": 1,
+      "api": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/json/%E5%A5%87%E4%B9%90.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "lives": [
+    {
+      "key": "live",
+      "name": "直播",
+      "type": 0,
+      "api": "https://xxx/live.m3u"
+    }
+  ],
+  "parses": [
+    {
+      "name": "解析",
+      "type": 3,
+      "url": "https://bd.jx.cn/?url="
+    }
+  ]
+}
