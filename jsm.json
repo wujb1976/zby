@@ -34,10 +34,10 @@
 "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
 "sites":[
  {"key": "本地","name": "本地｜视频","type": 3,"api": "csp_LocalFile"},
- {"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_NmyswvGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
+
  {"key": "爱听音乐","name": "爱听 • 音乐","type": 3,"api": "https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/py/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py"},
- {"key":"豆","name":"【神秘的哥哥们】","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
-  {"key":"瓜子","name":"👀瓜子┃不卡","type":3,"api":"csp_AppgzGuard","timeout":15,"playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
+{"key": "哔哩合集","name": "哔哩 • 合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.433},"ext": {"n": "哔哩合集","cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"}},
+  
   {"key": "瓜子影视","name": "瓜子 • 影视","type": 3,"api": "csp_Gz360"},
 
 
