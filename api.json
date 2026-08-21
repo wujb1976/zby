@@ -8,25 +8,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "ddys",
-      "name": "低端影视",
-      "type": 1,
-      "api": "https://zoe.im/tvbox/sites/ddys/spider.js?v=6e848abf&t=1787289703256",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "liangzi",
-      "name": "🔬 量子",
-      "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    }
   ],
   "lives": [
     {
