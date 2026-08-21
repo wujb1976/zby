@@ -8,14 +8,25 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+{
+      "key": "jx",
+      "name": "杰西",
+      "type": 1,
+      "api": "http://www.vipjiexi.com/yun.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
+
+    
   ],
   "lives": [
     {
       "key": "live",
       "name": "直播",
       "type": 0,
-      "api": "https://xxx/live.m3u"
+      "api": "https://gh-proxy.com/https://github.com/travellinfang/my-iptv/blob/main/output/live_available.txt"
     }
   ],
   "parses": [
