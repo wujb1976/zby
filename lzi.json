@@ -1,0 +1,15 @@
+{
+  "sites": [
+    {
+      "key": "lzi",
+      "name": "量子资源(演示)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/baoxin/tvbox-source/blob/main/out/demo-lzi/spider.js",
+      "ext": { "host": "https://cj.lziapi.com" },
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 15
+    }
+  ]
+}
