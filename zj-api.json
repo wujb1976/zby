@@ -12,6 +12,15 @@
    "changeable": 0
   },
   {
+   "key": "bisp",
+   "name": "哔哩视频",
+   "type": 3,
+   "api": "./py/哔哩视频.py",
+   "searchable": 0,
+   "filterable": 0,
+   "changeable": 0
+  },
+  {
    "key": "荐片",
    "name": "荐片[js]",
    "type": 3,
