@@ -22,7 +22,7 @@
       "key": "yzzy",
       "name": "优质资源",
       "type": 1,
-      "api": "https://api.yzzy-api.com/inc/apijson.php/provide/vod",
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
       "ext": { "host": "https://api.yzzy-api.com" },
       "searchable": 1,
       "quickSearch": 1,
