@@ -1,10 +1,10 @@
 {
  "sites": [
   {
-   "key": "py_douban",
-   "name": "豆瓣[py]",
+   "key": "bili",
+   "name": "哔哩直播[py]",
    "type": 3,
-   "api": "./py/douban.py",
+   "api": "./py/哔哩直播.py",
    "searchable": 0,
    "filterable": 0,
    "changeable": 0
@@ -21,4 +21,6 @@
    "name": "cluntop",
    "type": 0,
    "url": "./lib/iptv.m3u"
-  },
+  }
+ ]
+}
