@@ -4,7 +4,7 @@
  "sites": [
   {
    "key": "bili",
-   "name": "哔哩直播[py]",
+   "name": "哔哩直播",
    "type": 3,
    "api": "./py/哔哩直播.py",
    "searchable": 0,
