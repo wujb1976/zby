@@ -30,9 +30,9 @@
  "lives": [
   {
     "key": "live",
-   "name": "cluntop",
+   "name": "api",
    "type": 0,
-   "url": "./lib/iptv.m3u"
+   "url": "https://gh-proxy.com/https://github.com/wujb1976/api/blob/main/output/live_ipv4.txt"
   }
  ]
 }
