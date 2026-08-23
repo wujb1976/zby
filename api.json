@@ -70,7 +70,7 @@
       "key": "live",
       "name": "直播",
       "type": 0,
-      "api": "https://gh-proxy.com/https://github.com/travellinfang/my-iptv/blob/main/output/live_available.txt"
+      "url": "https://gh-proxy.com/https://github.com/travellinfang/my-iptv/blob/main/output/live_available.txt"
     }
   ],
   "parses": [
