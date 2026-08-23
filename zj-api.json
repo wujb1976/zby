@@ -29,6 +29,7 @@
     ],
  "lives": [
   {
+    "key": "live",
    "name": "cluntop",
    "type": 0,
    "url": "./lib/iptv.m3u"
