@@ -1,7 +1,7 @@
 {
   "sites": [
     {
-      "key": "123av,
+      "key": "123av",
       "name": "123av",
       "type": 3,
       "api": "./js/123av.user.js",
@@ -12,9 +12,9 @@
       
     }，
     {
-      "key": "4kav,
+      "key": "4kav",
       "name": "4kav",
-      "type": 1,
+      "type": 3,
       "api": "./py/4KAV.py",
       "searchable": 0,
       "quickSearch": 0,
