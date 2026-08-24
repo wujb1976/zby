@@ -94,7 +94,12 @@
    "type": 3,
    "api": "./js/荐片.js"
   },
-  
+  {
+   "key": "我的哔哩",
+   "name": "我的哔哩",
+   "type": 3,
+   "api": "./js/我的哔哩官.js"
+  },
  
   {"key":"drpy_js_DJ音乐",
    "name":"音频┃DJ音乐[js]",
