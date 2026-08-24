@@ -15,9 +15,18 @@
       "name": "Teng",
       "type": 3,
       "api": "./py/Teng.py",
-      "searchable": 0,
-   "filterable": 0,
-   "changeable": 0
+      "searchable": 1,
+   "filterable": 1,
+   "changeable": 1
+    },
+    {
+      "key": "YYMP3音乐网",
+      "name": "YYMP3音乐网",
+      "type": 3,
+      "api": "./py/YYMP3音乐网.py",
+      "searchable": 1,
+   "filterable": 1,
+   "changeable": 1
     }
   ]
 }
