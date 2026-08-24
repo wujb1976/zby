@@ -18,15 +18,60 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+   "key": "bisp",
+   "name": "哔哩视频",
+   "type": 3,
+   "api": "./py/哔哩视频.py",
+   "searchable": 0,
+   "filterable": 0,
+   "changeable": 0
+  },
 {
-      "key": "yzzy",
-      "name": "优质资源",
-      "type": 1,
-      "api": "https://api.yzzy-api.com/inc/apijson.php",
-      "ext": { "host": "https://api.yzzy-api.com" },
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "key": "wyyyy",
+      "name": "网易云音乐",
+      "type": 3,
+      "api": "./py/网易云音乐.py",
+      "ext": { "host": "" },
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "atyy",
+      "name": "爱听音乐",
+      "type": 3,
+      "api": "./py/爱听音乐.py",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "fyyy",
+      "name": "枫叶音乐",
+      "type": 3,
+      "api": "./py/枫叶音乐.py",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "ysxs",
+      "name": "有声小说",
+      "type": 3,
+      "api": "./py/有声小说.py",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "bili",
+      "name": "哔哩",
+      "type": 3,
+      "api": "./py/bili.py",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
     },
    {
      "key": "haohua",
