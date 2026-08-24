@@ -138,12 +138,6 @@
    "name": "博看听书",
    "type": 3,
    "api": "./js/博看听书.js"
-  }，
-    {
-   "key": "pssst",
-   "name": "评书随身听",
-   "type": 3,
-   "api": "./js/评书随身听.js"
   }
   ],
   "lives": [
