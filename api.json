@@ -102,6 +102,14 @@
    "api":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/lib/drpy2.min.js",
    "changeable":0,
    "ext":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/js/DJ%E9%9F%B3%E4%B9%90.js"
+  },
+     {"key":"drpy_js_博看听书",
+   "name":"听书┃博看听书[js]",
+   "type":3,
+   "api":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/lib/drpy2.min.js",
+   "changeable":0,
+   "style":{"type":"rect","ratio":1},
+   "ext":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/js/%E5%8D%9A%E7%9C%8B%E5%90%AC%E4%B9%A6.js"
   }
 
   ],
