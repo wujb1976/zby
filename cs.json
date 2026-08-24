@@ -9,6 +9,15 @@
       "searchable": 0,
    "filterable": 0,
    "changeable": 0
+    },
+    {
+      "key": "Applzxw",
+      "name": "Applzxw",
+      "type": 3,
+      "api": "./py/Applzxw.py",
+      "searchable": 0,
+   "filterable": 0,
+   "changeable": 0
     }
   ]
 }
