@@ -11,10 +11,10 @@
    "changeable": 0
     },
     {
-      "key": "Applzxw",
-      "name": "Applzxw",
+      "key": "CliCli动漫",
+      "name": "CliCli动漫",
       "type": 3,
-      "api": "./py/Applzxw.py",
+      "api": "./py/CliCli动漫.py",
       "searchable": 0,
    "filterable": 0,
    "changeable": 0
