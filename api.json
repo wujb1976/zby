@@ -32,19 +32,14 @@
       "name": "A8音乐",
       "type": 3,
       "api": "./js/A8音乐.js",
-      "ext": { "host": "" },
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      
     },
     {
       "key": "DJyy",
       "name": "DJ音乐",
       "type": 3,
       "api": "./js/DJ音乐.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      
     },
     {
       "key": "fyyy",
@@ -120,19 +115,6 @@
    "name": "啦啦DJ",
    "type": 3,
    "api": "./js/啦啦DJ.js"
-  }，
-     {
-   "key": "wdbl",
-   "name": "我的哔哩",
-   "type": 3,
-   "api": "./js/我的哔哩.js"
-  }，
-     
-     {
-   "key": "bkts",
-   "name": "博看听书",
-   "type": 3,
-   "api": "./js/博看听书.js"
   }
   ],
   "lives": [
