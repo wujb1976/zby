@@ -2,10 +2,10 @@
   "sites": [
        
     {
-      "key": "APPV2",
-      "name": "APPV2",
+      "key": "AV4K影视",
+      "name": "AV4K影视",
       "type": 3,
-      "api": "./py/APPV2.py",
+      "api": "./py/AV4K影视.py",
       "searchable": 0,
    "filterable": 0,
    "changeable": 0
