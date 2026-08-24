@@ -28,20 +28,20 @@
    "changeable": 0
   },
 {
-      "key": "wyyyy",
-      "name": "网易云音乐",
+      "key": "A8yy",
+      "name": "A8音乐",
       "type": 3,
-      "api": "./py/网易云音乐.py",
+      "api": "./js/A8音乐.js",
       "ext": { "host": "" },
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
     {
-      "key": "atyy",
-      "name": "爱听音乐",
+      "key": "DJyy",
+      "name": "DJ音乐",
       "type": 3,
-      "api": "./py/爱听音乐.py",
+      "api": "./js/DJ音乐.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -115,11 +115,41 @@
    "type": 3,
    "api": "./js/荐片.js"
   },
-    {
-   "key": "bldq",
-   "name": "哔哩大全",
+     {
+   "key": "lldj",
+   "name": "啦啦DJ",
    "type": 3,
-   "api": "./js/哔哩大全.js"
+   "api": "./js/啦啦DJ.js"
+  }，
+     {
+   "key": "wdbl",
+   "name": "我的哔哩",
+   "type": 3,
+   "api": "./js/我的哔哩.js"
+  }，
+     {
+   "key": "xssst",
+   "name": "相声随身听",
+   "type": 3,
+   "api": "./js/相声随身听.js"
+  }，
+     {
+   "key": "bkts",
+   "name": "博看听书",
+   "type": 3,
+   "api": "./js/博看听书.js"
+  }，
+    {
+   "key": "pssst",
+   "name": "评书随身听",
+   "type": 3,
+   "api": "./js/评书随身听.js"
+  }，
+    {
+   "key": "ts",
+   "name": "i275听书",
+   "type": 3,
+   "api": "./js/i275听书.js"
   }
   ],
   "lives": [
