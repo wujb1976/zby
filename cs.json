@@ -11,10 +11,10 @@
    "changeable": 0
     },
     {
-      "key": "CliCli动漫",
-      "name": "CliCli动漫",
+      "key": "Teng",
+      "name": "Teng",
       "type": 3,
-      "api": "./py/CliCli动漫.py",
+      "api": "./py/Teng.py",
       "searchable": 0,
    "filterable": 0,
    "changeable": 0
