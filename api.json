@@ -94,11 +94,7 @@
    "type": 3,
    "api": "./js/荐片.js"
   },
-  {"key":"drjs_我的哔哩[官]",
-    "name":"我的哔哩(DRPY)",
-    "type":3,
-    "api":"https://gh-proxy.com/https://github.com/n3rddd/N3RD/blob/master/JN/dr_py/libs/drpy2.min.js",
-    "ext":"./js/我的哔哩官.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/json/Bili1.json"},
+    
  
   {"key":"drpy_js_DJ音乐",
    "name":"音频┃DJ音乐[js]",
