@@ -2,7 +2,7 @@
   "sites": [
        
     {
-      "key": "4kyy",
+      "key": "APPV2",
       "name": "APPV2",
       "type": 3,
       "api": "./py/APPV2.py",
