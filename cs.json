@@ -1,12 +1,6 @@
 {
   "sites": [
-    {
-      "key": "123av",
-      "name": "123av",
-      "type": 3,
-      "api": "./js/123av.user.js",
-      },
-    
+       
     {
       "key": "4kav",
       "name": "4kav",
