@@ -27,20 +27,7 @@
    "filterable": 0,
    "changeable": 0
   },
-{
-      "key": "A8yy",
-      "name": "A8音乐",
-      "type": 3,
-      "api": "./js/A8音乐.js",
-      
-    },
-    {
-      "key": "DJyy",
-      "name": "DJ音乐",
-      "type": 3,
-      "api": "./js/DJ音乐.js",
-      
-    },
+
     {
       "key": "fyyy",
       "name": "枫叶音乐",
