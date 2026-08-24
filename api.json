@@ -40,14 +40,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-     {"key": "爱听音乐",
-  "name": "爱听 • 音乐",
-  "type": 3,
-  "api": "https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/py/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py",
-  "searchable": 1, 
-  "quickSearch": 1,
-  "filterable": 1,
- },
+
  
     {
       "key": "blzb",
