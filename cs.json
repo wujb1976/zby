@@ -2,10 +2,10 @@
   "sites": [
        
     {
-      "key": "4kav",
-      "name": "4kav",
+      "key": "4kyy",
+      "name": "4k影院",
       "type": 3,
-      "api": "./py/4KAV.py",
+      "api": "./py/4K影院.py",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
