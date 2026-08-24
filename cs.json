@@ -1,10 +1,10 @@
 {
   "sites": [
     {
-      "key": "lzi",
-      "name": "量子资源(演示)",
+      "key": "123av,
+      "name": "123av",
       "type": 3,
-      "api": ".js/",
+      "api": "./js/123av.user.js",
       "ext": { "host": "" },
       "searchable": 1,
       "quickSearch": 1,
