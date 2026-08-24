@@ -7,6 +7,10 @@
             "name": "231006"
         }, 
         {  
+             "url": "https://gh-proxy.com/https://github.com/wujb1976/zy/blob/main/api.json",
+            "name": "api"
+        }, 
+        {  
              "url": "https://gh-proxy.com/https://github.com/wujb1976/zy/blob/main/jsm.json",
             "name": "zyjsm"
         }, 
