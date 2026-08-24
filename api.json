@@ -47,10 +47,10 @@
       "filterable": 0
     },
     {
-      "key": "bili",
-      "name": "哔哩",
+      "key": "YYYMP3",
+      "name": "YYMP3音乐网",
       "type": 3,
-      "api": "./py/bili.py",
+      "api": "./py/YYMP3音乐网.py",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
