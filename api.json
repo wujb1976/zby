@@ -108,7 +108,19 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }
+    },
+    {
+   "key": "荐片",
+   "name": "荐片[js]",
+   "type": 3,
+   "api": "./js/荐片.js"
+  },
+    {
+   "key": "bldq",
+   "name": "哔哩大全",
+   "type": 3,
+   "api": "./js/哔哩大全.js"
+  }
   ],
   "lives": [
     {
