@@ -46,15 +46,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
-      "key": "YYYMP3",
-      "name": "YYMP3音乐网",
-      "type": 3,
-      "api": "./py/YYMP3音乐网.py",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
+    
    {
      "key": "haohua",
       "name": "豪华",
@@ -98,11 +90,20 @@
    "api": "./js/荐片.js"
   },
      {
-   "key": "BKTS",
-   "name": "博看听书",
+   "key": "wdbl",
+   "name": "我的哔哩",
    "type": 3,
-   "api": "./js/博看听书.js"
+   "api": "./js/我的哔哩.js"
   }
+    {
+      "key": "xmly",
+      "name": "喜马拉雅",
+      "type": 3,
+      "api": "./js/喜马拉雅.js",
+      "searchable": 1,
+      "quickSearch":1,
+      "filterable": 1
+    },
   ],
   "lives": [
     {
