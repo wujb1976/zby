@@ -9,7 +9,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "timeout": 15
+      
+    }，
+    {
+      "key": "4kav,
+      "name": "4kav",
+      "type": 1,
+      "api": "./py/4KAV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      
     }
   ]
 }
