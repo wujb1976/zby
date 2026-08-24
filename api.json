@@ -127,12 +127,7 @@
    "type": 3,
    "api": "./js/我的哔哩.js"
   }，
-     {
-   "key": "xssst",
-   "name": "相声随身听",
-   "type": 3,
-   "api": "./js/相声随身听.js"
-  }，
+     
      {
    "key": "bkts",
    "name": "博看听书",
