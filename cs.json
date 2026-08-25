@@ -14,7 +14,7 @@
       "key": "JPYS",
       "name": "金牌影视",
       "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/wujb1976/PizazzGY/blob/main/movie/py/JPYS.py",
+      "api": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/xiaosa/py/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.py",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -23,7 +23,7 @@
       "key": "爱听音乐",
       "name": "爱听音乐",
       "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/wujb1976/PizazzGY/blob/main/other/py/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py",
+      "api": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/py/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
