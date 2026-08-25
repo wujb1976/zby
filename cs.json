@@ -11,22 +11,22 @@
    "changeable": 0
     },
     {
-      "key": "Teng",
-      "name": "Teng",
+      "key": "JPYS",
+      "name": "金牌影视",
       "type": 3,
-      "api": "./py/Teng.py",
-      "searchable": 1,
-   "filterable": 1,
-   "changeable": 1
+      "api": "https://gh-proxy.com/https://github.com/wujb1976/PizazzGY/blob/main/movie/py/JPYS.py",
+      "searchable": 0,
+   "filterable": 0,
+   "changeable": 0
     },
     {
-      "key": "YYMP3音乐网",
-      "name": "YYMP3音乐网",
+      "key": "爱听音乐",
+      "name": "爱听音乐",
       "type": 3,
-      "api": "./py/YYMP3音乐网.py",
-      "searchable": 1,
-   "filterable": 1,
-   "changeable": 1
+      "api": "https://gh-proxy.com/https://github.com/wujb1976/PizazzGY/blob/main/other/py/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py",
+      "searchable": 0,
+   "filterable": 0,
+   "changeable": 0
     }
   ]
 }
