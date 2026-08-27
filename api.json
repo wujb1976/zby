@@ -95,12 +95,27 @@
    "api": "./js/荐片.js"
   },
      {
-   "key": "我的哔哩",
-   "name": "我的哔哩",
-   "type": 3,
-   "api": "./js/我的哔哩官.js"
-  },
- 
+       "key":"瓜子",
+       "name":"👀瓜子┃不卡",
+       "type":3,
+       "api":"csp_AppgzGuard",
+       "timeout":15,
+       "playerType":"2",
+       "searchable":1,
+       "quickSearch":1,
+       "changeable":1
+     },
+ {
+   "key":"MTV1",
+   "name":"🎙️易听音乐┃带歌词",
+   "type":3,
+   "api":"csp_MusicGuard",
+   "style":{"type":"rect","ratio":1},
+   "playerType":2,
+   "searchable":0,
+   "quickSearch":0,
+   "changeable":0
+ },
   {"key":"drpy_js_DJ音乐",
    "name":"音频┃DJ音乐[js]",
    "type":3,
