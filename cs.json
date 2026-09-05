@@ -20,6 +20,96 @@
       "changeable": 0
     },
     {
+      "key": "DJ呦呦",
+      "name": "DJ呦呦",
+      "type": 3,
+      "api": "./FGBLH-PY/DJ呦呦.py",
+      "searchable": 0,
+   "filterable": 0,
+   "changeable": 0
+    },
+{
+      "key": "275听书",
+      "name": "275听书",
+      "type": 3,
+      "api": "./FGBLH-PY/275听书.py",
+      "searchable": 0,
+   "filterable": 0,
+   "changeable": 0
+    },
+{
+      "key": "千千音乐",
+      "name": "千千音乐",
+      "type": 3,
+      "api": "./FGBLH-PY/千千音乐🍀TG @hshsjk9.py",
+      "searchable": 0,
+   "filterable": 0,
+   "changeable": 0
+    },
+{
+      "key": "听书网",
+      "name": "听书网",
+      "type": 3,
+      "api": "./FGBLH-PY/听书网456🍀TG @hshsjk9.py",
+      "searchable": 0,
+   "filterable": 0,
+   "changeable": 0
+    },
+    {
+      "key": "好好看",
+      "name": "好好看",
+      "type": 3,
+      "api": "./FGBLH-PY/好好看🍀TG @hshsjk9.py",
+      "searchable": 0,
+   "filterable": 0,
+   "changeable": 0
+    },
+    {
+      "key": "悦听吧",
+      "name": "悦听吧",
+      "type": 3,
+      "api": "./FGBLH-PY/悦听吧.py",
+      "searchable": 0,
+   "filterable": 0,
+   "changeable": 0
+    },
+    {
+      "key": "易听书网",
+      "name": "易听书网",
+      "type": 3,
+      "api": "./FGBLH-PY/易听书网🍀TG @hshsjk9.py",
+      "searchable": 0,
+   "filterable": 0,
+   "changeable": 0
+    },
+     {
+      "key": "瓜子app",
+      "name": "瓜子app",
+      "type": 3,
+      "api": "./FGBLH-PY/瓜子APP.py",
+      "searchable": 0,
+   "filterable": 0,
+   "changeable": 0
+    },
+     {
+      "key": "酷我音乐",
+      "name": "酷我音乐",
+       "type": 3,
+      "api": "./FGBLH-PY/酷我音乐.py",
+      "searchable": 0,
+   "filterable": 0,
+   "changeable": 0
+    },
+     {
+      "key": "音乐聚合",
+      "name": "音乐聚合",
+      "type": 3,
+      "api": "./FGBLH-PY/音乐聚合🍀TG @hshsjk9.py",
+      "searchable": 0,
+   "filterable": 0,
+   "changeable": 0
+    },
+    {
       "key": "爱听音乐",
       "name": "爱听音乐",
       "type": 3,
