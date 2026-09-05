@@ -12,9 +12,9 @@
     },
     {
       "key": "JPYS",
-      "name": "金牌影视",
+      "name": "金牌app",
       "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/wujb1976/zy/blob/main/py/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.py",
+      "api": "./FGBLH-PY/金牌APP.py",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
