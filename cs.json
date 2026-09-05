@@ -15,8 +15,8 @@
       "name": "金牌影视",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/wujb1976/zy/blob/main/py/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.py",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "changeable": 0
     },
     {
