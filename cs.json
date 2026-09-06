@@ -6,36 +6,36 @@
       "name": "AV4K影视",
       "type": 3,
       "api": "./py/AV4K影视.py",
-      "searchable": 0,
-   "filterable": 0,
-   "changeable": 0
+      "searchable":1,
+   "filterable":1,
+   "changeable":1
     },
     {
       "key": "金牌app",
       "name": "金牌app",
       "type": 3,
       "api": "./FGBLH-PY/金牌APP.py",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":1
     },
     {
       "key": "DJ呦呦",
       "name": "DJ呦呦",
       "type": 3,
       "api": "./FGBLH-PY/DJ呦呦.py",
-      "searchable": 0,
-   "filterable": 0,
-   "changeable": 0
+      "searchable":1,
+   "filterable":1,
+   "changeable":1
     },
 {
       "key": "275听书",
       "name": "275听书",
       "type": 3,
       "api": "./FGBLH-PY/275听书.py",
-      "searchable": 0,
-   "filterable": 0,
-   "changeable": 0
+      "searchable":1,
+   "filterable":1,
+   "changeable":1
     },
 {
       "key": "千千音乐",
