@@ -118,8 +118,8 @@
       "quickSearch": 0,
       "changeable": 0
     }
-  ]
-}
+  ],
+
 "lives": [
     {
       "key": "live",
@@ -138,6 +138,12 @@
       "name": "migu",
       "type": 0,
       "url": "https://gh-proxy.com/https://github.com/ioptu/migu_video/blob/main/migu.m3u"
+    },
+    {
+      "key": "hj",
+      "name": "hj",
+      "type": 0,
+      "url": "./hj.xt"
     }
-    
   ]
+}
