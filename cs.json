@@ -120,3 +120,24 @@
     }
   ]
 }
+"lives": [
+    {
+      "key": "live",
+      "name": "直播",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://github.com/travellinfang/my-iptv/blob/main/output/live_available.txt"
+    },
+    {
+      "key": "live",
+      "name": "iptv",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://github.com/kakaxi-1/IPTV/blob/main/iptv.txt"
+    },
+    {
+      "key": "live",
+      "name": "migu",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://github.com/ioptu/migu_video/blob/main/migu.m3u"
+    }
+    
+  ]
